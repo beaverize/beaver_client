@@ -39,5 +39,6 @@ public class TestActivity extends AppCompatActivity {
         AsyncUpdateServer updater = new AsyncUpdateServer();
         updater.execute(update_info);
         //zhopa
+        //vova branch
     }
 }
