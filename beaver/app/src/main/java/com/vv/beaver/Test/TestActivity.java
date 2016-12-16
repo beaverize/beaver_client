@@ -38,5 +38,6 @@ public class TestActivity extends AppCompatActivity {
         Log.d("TestActivity", "onClickSendTest: update_info = "+ update_info.toString());
         AsyncUpdateServer updater = new AsyncUpdateServer();
         updater.execute(update_info);
+        //zhopa
     }
 }
