@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer name="change_owner_button_offset">1000</integer>
+    <integer name="menu_item_owner_id_offset">2000</integer>
+    <integer name="delete_menu_item_button_offset">3000</integer>
+    <integer name="delete_beaver_button_offset">4000</integer>
+
+    <!--Update codes-->
+    <integer name="add_beaver">0</integer>
+
+
+
+</resources>

@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">beaver</string>
+    <string name="new_product_hint">enter new product</string>
+    <string name="beaver_list_string">Choose Beaver</string>
+    <string name="change_owner_string">Change Owner</string>
+    <string name="dump_file_name">dump_data_holder</string>
+    <string name="delete_menu_item_string">Delete</string>
+    <string name="prompt">"Select a beaver</string>
+</resources>
