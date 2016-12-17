@@ -13,6 +13,6 @@ public final class BeaverDbColumns {
         public static final String COLUMN_NAME_BEAVER_ID    = "entryid";
         public static final String COLUMN_NAME_BEAVER_NAME  = "title";
         //web update
-        //web update4
+        //web update5
     }
 }
